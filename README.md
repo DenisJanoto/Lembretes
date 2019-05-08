@@ -1,5 +1,6 @@
 # Lembretes
 Um app que gera notificações de lembretes de acordo com a hora e informações configuradas. - Professor Eric Brito
+- Xcode 9.4
 - Splash Screen
 - TableView
 - Notification
