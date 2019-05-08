@@ -1,7 +1,6 @@
 # Lembretes
 Um app que gera notificações de lembretes de acordo com a hora e informações configuradas.
 
-
-![alt text](https://raw.githubusercontent.com/DenisJanoto/Lembretes/master/Images/Screen%201.png) ![alt text](https://github.com/DenisJanoto/Lembretes/blob/master/Images/Screen%202.png?raw=true)
+![lembrete](https://user-images.githubusercontent.com/29108604/57379536-7a680980-717d-11e9-9baf-6a8c4b9a6f72.gif)
 
 
