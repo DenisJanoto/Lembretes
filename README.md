@@ -1,5 +1,5 @@
 # Lembretes
-Um app que gera notificações de lembretes de acordo com a hora e informações configuradas.
+Um app que gera notificações de lembretes de acordo com a hora e informações configuradas. - Professor Eric Brito
 - Splash Screen
 - TableView
 - Notification
